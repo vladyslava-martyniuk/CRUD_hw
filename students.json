@@ -1,0 +1,56 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ivan Petrenko",
+      "age": 15,
+      "course": "Web Development",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "email": "ivan.petrenko@example.com",
+      "isEnrolled": true
+    },
+    {
+      "id": "2",
+      "name": "Olha Kovalenko",
+      "age": 16,
+      "course": "Game Development",
+      "skills": [
+        "C#",
+        "Unity"
+      ],
+      "email": "olha.kovalenko@example.com",
+      "isEnrolled": true
+    },
+    {
+      "id": "3",
+      "name": "Dmytro Shevchenko",
+      "age": 14,
+      "course": "Mobile App Development",
+      "skills": [
+        "Java",
+        "Kotlin",
+        "Android Studio"
+      ],
+      "email": "dmytro.shevchenko@example.com",
+      "isEnrolled": false
+    },
+    {
+      "id": "9383",
+      "name": "Владислава Мартинюк",
+      "age": "17",
+      "course": "Frontend",
+      "skills": [
+        "HTML",
+        "JS",
+        "CSS",
+        "PYTHON"
+      ],
+      "email": "vlada.martyniuk@gmail.com",
+      "isEnrolled": true
+    }
+  ]
+}

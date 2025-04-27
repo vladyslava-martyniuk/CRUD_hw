@@ -89,7 +89,7 @@ function deleteStudent(studentId) {
     .catch(error => console.error(error));
 }
 
-// Обробник події для кнопки "Отримати студентів"
+// Обробник події для кнопки "Отримати студентів".
 document.querySelector('#get-students-btn').addEventListener('click', () => {
     getStudents();
 });
